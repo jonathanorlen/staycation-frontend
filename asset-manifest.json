@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/staycation-frontend/static/css/main.d728d7ba.chunk.css",
+    "main.js": "/staycation-frontend/static/js/main.6a6b71a9.chunk.js",
+    "main.js.map": "/staycation-frontend/static/js/main.6a6b71a9.chunk.js.map",
+    "runtime-main.js": "/staycation-frontend/static/js/runtime-main.3d3ef01d.js",
+    "runtime-main.js.map": "/staycation-frontend/static/js/runtime-main.3d3ef01d.js.map",
+    "static/css/2.33d22cee.chunk.css": "/staycation-frontend/static/css/2.33d22cee.chunk.css",
+    "static/js/2.ce59d050.chunk.js": "/staycation-frontend/static/js/2.ce59d050.chunk.js",
+    "static/js/2.ce59d050.chunk.js.map": "/staycation-frontend/static/js/2.ce59d050.chunk.js.map",
+    "index.html": "/staycation-frontend/index.html",
+    "precache-manifest.2cb1b5ceeaccb09db3aaa98faf96f7b3.js": "/staycation-frontend/precache-manifest.2cb1b5ceeaccb09db3aaa98faf96f7b3.js",
+    "service-worker.js": "/staycation-frontend/service-worker.js",
+    "static/css/2.33d22cee.chunk.css.map": "/staycation-frontend/static/css/2.33d22cee.chunk.css.map",
+    "static/css/main.d728d7ba.chunk.css.map": "/staycation-frontend/static/css/main.d728d7ba.chunk.css.map",
+    "static/js/2.ce59d050.chunk.js.LICENSE.txt": "/staycation-frontend/static/js/2.ce59d050.chunk.js.LICENSE.txt",
+    "static/media/completed.jpg": "/staycation-frontend/static/media/completed.c6ccd474.jpg",
+    "static/media/hero-frame.jpg": "/staycation-frontend/static/media/hero-frame.19fa22a6.jpg",
+    "static/media/hero.jpg": "/staycation-frontend/static/media/hero.3a77d213.jpg",
+    "static/media/ic_calendar.svg": "/staycation-frontend/static/media/ic_calendar.f8d2d211.svg",
+    "static/media/ic_cities.svg": "/staycation-frontend/static/media/ic_cities.c6046ef6.svg",
+    "static/media/ic_traveler.svg": "/staycation-frontend/static/media/ic_traveler.90964552.svg",
+    "static/media/ic_treasure.svg": "/staycation-frontend/static/media/ic_treasure.d28b9937.svg",
+    "static/media/logo-bca.jpg": "/staycation-frontend/static/media/logo-bca.e1f52ffd.jpg",
+    "static/media/logo-mandiri.jpg": "/staycation-frontend/static/media/logo-mandiri.8c44d8ba.jpg",
+    "static/media/index.scss": "/staycation-frontend/static/media/star1.1db4ba47.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3d3ef01d.js",
+    "static/css/2.33d22cee.chunk.css",
+    "static/js/2.ce59d050.chunk.js",
+    "static/css/main.d728d7ba.chunk.css",
+    "static/js/main.6a6b71a9.chunk.js"
+  ]
+}
